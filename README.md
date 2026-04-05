@@ -10,3 +10,4 @@ contract MessageEmitter {
         emit Updated(_msg);
     }
 }
+Create simple Ethereum contracts
