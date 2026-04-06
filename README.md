@@ -11,3 +11,4 @@ contract MessageEmitter {
     }
 }
 Create simple Ethereum contracts
+Final code cleanup 
