@@ -12,3 +12,4 @@ contract MessageEmitter {
 }
 Create simple Ethereum contracts
 Final code cleanup 
+Add basic error message
