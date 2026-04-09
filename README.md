@@ -14,3 +14,4 @@ Create simple Ethereum contracts
 Final code cleanup 
 Add basic error message
 Initial commit
+Add basic contract structure
