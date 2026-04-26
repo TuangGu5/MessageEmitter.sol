@@ -15,3 +15,4 @@ Final code cleanup
 Add basic error message
 Initial commit
 Add basic contract structure
+Update documentation
